@@ -3,4 +3,4 @@ python:
   - "3.8"
  
 script:
-  - test-file.py
+  - python test-file.py
